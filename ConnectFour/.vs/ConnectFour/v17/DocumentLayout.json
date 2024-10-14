@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\MSLearn-dotnet-connect-four\\ConnectFour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C244AC6-F108-4EC2-906A-1D5371EE70F7}|ConnectFour.csproj|d:\\proyectos\\mslearn-dotnet-connect-four\\connectfour\\components\\board.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2C244AC6-F108-4EC2-906A-1D5371EE70F7}|ConnectFour.csproj|solutionrelative:components\\board.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C244AC6-F108-4EC2-906A-1D5371EE70F7}|ConnectFour.csproj|d:\\proyectos\\mslearn-dotnet-connect-four\\connectfour\\components\\board.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C244AC6-F108-4EC2-906A-1D5371EE70F7}|ConnectFour.csproj|solutionrelative:components\\board.razor.css||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C244AC6-F108-4EC2-906A-1D5371EE70F7}|ConnectFour.csproj|d:\\proyectos\\mslearn-dotnet-connect-four\\connectfour\\components\\board.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C244AC6-F108-4EC2-906A-1D5371EE70F7}|ConnectFour.csproj|solutionrelative:components\\board.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C244AC6-F108-4EC2-906A-1D5371EE70F7}|ConnectFour.csproj|d:\\proyectos\\mslearn-dotnet-connect-four\\connectfour\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C244AC6-F108-4EC2-906A-1D5371EE70F7}|ConnectFour.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.razor.css",
+              "DocumentMoniker": "D:\\Proyectos\\MSLearn-dotnet-connect-four\\ConnectFour\\Components\\Board.razor.css",
+              "RelativeDocumentMoniker": "Components\\Board.razor.css",
+              "ToolTip": "D:\\Proyectos\\MSLearn-dotnet-connect-four\\ConnectFour\\Components\\Board.razor.css",
+              "RelativeToolTip": "Components\\Board.razor.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-14T18:29:01.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.razor.css",
+              "DocumentMoniker": "D:\\Proyectos\\MSLearn-dotnet-connect-four\\ConnectFour\\Components\\Board.razor.css",
+              "RelativeDocumentMoniker": "Components\\Board.razor.css",
+              "ToolTip": "D:\\Proyectos\\MSLearn-dotnet-connect-four\\ConnectFour\\Components\\Board.razor.css",
+              "RelativeToolTip": "Components\\Board.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-14T18:28:25.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Proyectos\\MSLearn-dotnet-connect-four\\ConnectFour\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Proyectos\\MSLearn-dotnet-connect-four\\ConnectFour\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T18:22:55.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Board.razor",
+              "DocumentMoniker": "D:\\Proyectos\\MSLearn-dotnet-connect-four\\ConnectFour\\Components\\Board.razor",
+              "RelativeDocumentMoniker": "Components\\Board.razor",
+              "ToolTip": "D:\\Proyectos\\MSLearn-dotnet-connect-four\\ConnectFour\\Components\\Board.razor",
+              "RelativeToolTip": "Components\\Board.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T18:22:41.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
